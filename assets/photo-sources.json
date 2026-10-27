@@ -1,0 +1,112 @@
+[
+  {
+    "filename": "hero-hoops.jpg",
+    "source_url": "https://images.unsplash.com/photo-1617038220319-276d3cfab638?auto=format&fit=crop&w=640&q=80",
+    "source_provider": "Unsplash",
+    "subject": "Gold-tone sculptural twisted hoop earrings resting on smooth pale stones in dramatic sunlight.",
+    "recommended_role": "Product: Twist Hoop Earrings; Earrings collection",
+    "width": 640,
+    "height": 704,
+    "bytes": 38563
+  },
+  {
+    "filename": "pendant.jpg",
+    "source_url": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?auto=format&fit=crop&w=640&q=80",
+    "source_provider": "Unsplash",
+    "subject": "Deep teal-green faceted geometric pendant with gold-tone frame and chain against warm blurred lights.",
+    "recommended_role": "Product: Emerald Muse Pendant; Necklaces collection",
+    "width": 640,
+    "height": 720,
+    "bytes": 52854
+  },
+  {
+    "filename": "ring.jpg",
+    "source_url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=640&q=80",
+    "source_provider": "Unsplash",
+    "subject": "Silver-tone ring with a clear centre stone, halo and split stone-set shoulders on dark charcoal cloth.",
+    "recommended_role": "Product: Halo Stone Ring; Rings collection",
+    "width": 640,
+    "height": 720,
+    "bytes": 55789
+  },
+  {
+    "filename": "layered.jpg",
+    "source_url": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?auto=format&fit=crop&w=640&q=80",
+    "source_provider": "Unsplash",
+    "subject": "Gold-tone open oval-link chain bracelet on an open fashion magazine in warm sunlight.",
+    "recommended_role": "Product: Golden Link Bracelet; Bracelets collection",
+    "width": 640,
+    "height": 720,
+    "bytes": 56589
+  },
+  {
+    "filename": "pearl.jpg",
+    "source_url": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=640&q=80",
+    "source_provider": "Unsplash",
+    "subject": "Silver-tone drop earrings with dark blue oval centre stones and clear surrounding stones, arranged on a green split-leaf.",
+    "recommended_role": "Product: Midnight Drop Earrings",
+    "width": 640,
+    "height": 720,
+    "bytes": 112621
+  },
+  {
+    "filename": "bracelet.jpg",
+    "source_url": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&w=640&q=80",
+    "source_provider": "Unsplash",
+    "subject": "Rose-gold-tone linked bracelet with repeating curved open motifs and small clear stones against a pale pink background.",
+    "recommended_role": "Product: Rosé Link Bracelet",
+    "width": 640,
+    "height": 720,
+    "bytes": 53592
+  },
+  {
+    "filename": "pearl-necklace.jpg",
+    "source_url": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=640&q=80",
+    "source_provider": "Unsplash",
+    "subject": "White pearl necklace with silver-tone decorative floral clasp inside an open dark burgundy jewellery box on soft pale fabric.",
+    "recommended_role": "New product: Pearl Necklace; gift editorial",
+    "width": 640,
+    "height": 427,
+    "bytes": 30336
+  },
+  {
+    "filename": "additional-ring.jpg",
+    "source_url": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=640&q=80",
+    "source_provider": "Unsplash",
+    "subject": "Gold-tone ring with a rectangular pink-purple centre stone, clear halo and clear stones along the band, photographed on pale grey.",
+    "recommended_role": "New product: Rosé Halo Ring; Rings collection",
+    "width": 640,
+    "height": 640,
+    "bytes": 43248
+  },
+  {
+    "filename": "model-necklace.jpg",
+    "source_url": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=1200&q=80",
+    "source_provider": "Unsplash",
+    "subject": "Cropped model wearing fine layered gold-tone necklaces and a white off-shoulder blouse; warm daylight and soft background.",
+    "recommended_role": "Primary split hero; object-position: 50% 38%",
+    "width": 1200,
+    "height": 1798,
+    "bytes": 152821
+  },
+  {
+    "filename": "editorial-ivory-model.jpg",
+    "source_url": "https://images.unsplash.com/photo-1600721391689-2564bb8055de?auto=format&fit=crop&w=1000&q=80",
+    "source_provider": "Unsplash",
+    "subject": "Cropped model in a gathered white puff-sleeve blouse wearing delicate layered gold-tone necklaces and slim rings, hands resting in foreground.",
+    "recommended_role": "Optional story image; especially cohesive with warm ivory palette",
+    "width": 1000,
+    "height": 1430,
+    "bytes": 132207
+  },
+  {
+    "filename": "pearl-pendant-model.jpg",
+    "source_url": "https://images.unsplash.com/photo-1611085583191-a3b181a88401?auto=format&fit=crop&w=1000&q=80",
+    "source_provider": "Unsplash",
+    "subject": "Cropped model wearing a single white pearl pendant on a fine gold-tone chain and a white shirt tied at the chest.",
+    "recommended_role": "Optional pearl collection/lifestyle image",
+    "width": 1000,
+    "height": 1500,
+    "bytes": 186762
+  }
+]
